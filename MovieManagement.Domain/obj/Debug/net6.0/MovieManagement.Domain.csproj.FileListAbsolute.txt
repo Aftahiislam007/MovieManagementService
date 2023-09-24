@@ -1,0 +1,11 @@
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.deps.json
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.pdb
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.AssemblyInfoInputs.cache
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.AssemblyInfo.cs
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\refint\MovieManagement.Domain.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.pdb
+D:\Asp.net Practices\MovieManagementService\MovieManagement.Domain\obj\Debug\net6.0\ref\MovieManagement.Domain.dll

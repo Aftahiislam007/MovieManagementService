@@ -1,0 +1,17 @@
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.deps.json
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.runtimeconfig.json
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.pdb
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.Domain.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.Domain.pdb
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.csproj.AssemblyReference.cache
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.AssemblyInfo.cs
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.csproj.CopyComplete
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\refint\MovieManagement.DataAccess.dll
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.pdb
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.genruntimeconfig.cache
+D:\Asp.net Practices\MovieManagementService\MovieManagement.DataAccess\obj\Debug\net6.0\ref\MovieManagement.DataAccess.dll
